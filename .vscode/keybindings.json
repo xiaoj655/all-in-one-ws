@@ -1,0 +1,6 @@
+{
+    "command": "vscode-neovim.compositeEscape1",
+    "key": "q",
+    "when": "neovim.mode == insert && editorTextFocus",
+    "args": "q"
+}
