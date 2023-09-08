@@ -1,6 +1,13 @@
 {
     "configurations": [
         {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "all-in-one-ws_76377017"
+        },
+        {
             "name": "C/C++: g++ build and debug active file",
             "type": "cppdbg",
             "request": "launch",
