@@ -1,8 +1,0 @@
-/* 在这里创建测试 CSS */
-
-p {
-  color: red;
-}
-p + div span {
-  color: green;
-}
